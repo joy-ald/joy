@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joy-ald
+- 👋 Hi, I’m @joy
 - 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning RL, Deep Learning, LLM.
 - 💞️ I’m looking to collaborate on ...
