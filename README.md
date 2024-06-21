@@ -1,10 +1,5 @@
-sume- 👋 Hi, I’m @joy
-- 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently working on RL, Deep Learning, LLM, MLOps
-- 💞️ I’m looking to collaborate on ML,DL,RL,LLM projects
-- 📫 How to reach me aldusejoy@gmail.com
-- 😄 Pronouns: Him, He
-- ⚡ Fun fact: ...
+
+
 
 
 
@@ -13,7 +8,7 @@ sume- 👋 Hi, I’m @joy
    <img width="300" height="300" src="https://github.com/joy-ald/pic/blob/main/JoyAld.jpg">
   </p>
 
-  <p align="center"> Joy A </p>
+  <p align="center"> Hi I am Joy A </p>
 
  
   <p align="center">
