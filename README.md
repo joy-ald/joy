@@ -8,7 +8,7 @@
    <img width="300" height="300" src="https://github.com/joy-ald/pic/blob/main/JoyAld.jpg">
   </p>
 
-  <p align="center"> Hi I am Joy A </p>
+  <p align="center"> Hi I am Joy </p>
 
  
   <p align="center">
