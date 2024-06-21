@@ -17,9 +17,9 @@ sume- 👋 Hi, I’m @joy
 
  
   <p align="center">
-  <a href="Resume-Certification/resume.pdf">Resume</a> |
+  <a href="https://github.com/joy-ald/Resume-Certification/blob/main/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/bejoyalduse/">LinkedIn</a> |
-  <a href="https://github.com/ald-joy">GitHub</a>
+  <a href="https://github.com/joy-ald">GitHub</a>
   </p>
 
   <p align="justify">
