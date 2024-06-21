@@ -23,7 +23,8 @@ sume- 👋 Hi, I’m @joy
   </p>
 
   <p align="justify">
-  I develop ML, DL and data models for business cases.
+  I develop ML, DL, MC simulations and statistical models for business cases.
+  Expertise in Python coding, algorithms, data structures, probabilistic models (Bayesian, Bayesian Networks, Regression, LASSO)
   <br><br>
   </p>
 
