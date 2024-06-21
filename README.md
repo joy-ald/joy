@@ -8,7 +8,7 @@
    <img width="300" height="300" src="https://github.com/joy-ald/pic/blob/main/JoyAld.jpg">
   </p>
 
-  <p align="center"> Hi I am Joy </p>
+  <p align="center"> Joy A </p>
 
  
   <p align="center">
@@ -18,7 +18,7 @@
   </p>
 
   <p align="justify">
-  I develop ML, DL, MC simulations and statistical models for business cases.
+  Hi I am Joy. I develop ML, DL, MC simulations and statistical models for business cases.
   Expertise in Python coding, algorithms, data structures, probabilistic models (Bayesian, Bayesian Networks, Regression, LASSO)
   <br><br>
   </p>
