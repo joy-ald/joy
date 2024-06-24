@@ -10,7 +10,7 @@
  
   <p align="center">
   <a href="https://github.com/joy-ald/Resume-Certification/blob/main/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/bejoyalduse/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/">LinkedIn</a> |
   <a href="https://github.com/joy-ald">GitHub</a>
   </p>
 
