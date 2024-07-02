@@ -10,9 +10,10 @@
  
   <p align="center">
   <a href="https://github.com/joy-ald/Resume-Certification/blob/main/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/">LinkedIn   </a>   |
   <a href="https://github.com/joy-ald">GitHub</a> |
   <a href="https://www.cloudskillsboost.google/public_profiles/2d615918-8705-4b7b-9235-a9b1ffc9db13">Cloud</a>
+  <a href="https://www.kaggle.com/joya123">Kaggle</a>
   </p>
 
   <p align="justify">
